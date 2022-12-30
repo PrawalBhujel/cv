@@ -1,1 +1,1 @@
-# cv
+#sign language recognition mini project
